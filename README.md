@@ -8,5 +8,7 @@ I'm always interested in side projects, so if you need help on anything or even 
 
 🎧 **Discord:** sabs#4754
 
+🛰️ **Linkedin:** https://www.linkedin.com/in/sabrinabutton/
+
 📨 **Email:** sabrinarosebutton@gmail.com
 
