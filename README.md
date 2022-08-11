@@ -2,9 +2,7 @@
 <h3 align="left">Mechatronics & Robotics Engineering Student @ Queen's University</h3>
 <h3 align="left">Passionate about the Environment 🌿, Artificial Intelligence 🧠, and Automation 🤖</h3>
 
-- 🦾 I’m currently developing **yagi antenna** controlled by a **robotic arm**
-
-- 🌱 I’m currently learning **Unity** and more about **AI/ML**
+- 🦾 I'm always looking fo side projects, so feel free to reach out!
 
 - 📨 You can reach me at **sabrinarosebutton@gmail.com**
 
