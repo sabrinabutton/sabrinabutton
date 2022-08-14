@@ -2,9 +2,9 @@
 <h3 align="left">Mechatronics & Robotics Engineering Student @ Queen's University</h3>
 <h3 align="left">Passionate about the Environment 🌿, Artificial Intelligence 🧠, and Automation 🤖</h3>
 
-- 🦾 I'm always looking fo side projects, so feel free to reach out!
+- 🦾 Right now I'm working on a computer-interfaced robotic arm. I'm always looking for new side projects, so feel free to reach out!
 
-- 📨 You can reach me at **sabrinarosebutton@gmail.com**
+- 📨 You can contact me at **sabrinarosebutton@gmail.com**
 
 - 🚀 Check out [my website](http://sabrinabutton.github.io) to learn more about my experiences! 
 
