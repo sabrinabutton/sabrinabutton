@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Sabrina Button ⛺</h1>
 <h3 align="left">Mechatronics & Robotics Engineering Student @ Queen's University</h3>
-<h3 align="left">Passionate about the Environment 🌿, Artificial Intelligence 🧠, and Automation 🤖</h3>
+<h3 align="left">Passionate about the Environment 🌿, Intelligent Systems 🧠, and Automation 🤖</h3>
 
 - 🦾 Right now I'm working on a computer-interfaced robotic arm. I'm always looking for new side projects, so feel free to reach out!
 
