@@ -2,7 +2,7 @@
 <h3 align="left">Mechatronics & Robotics Engineering Student @ Queen's University</h3>
 <h3 align="left">Passionate about the Environment 🌿, AI & Intelligent Systems 🧠, and Automation 🤖</h3>
 
-- 🦾 Right now I'm working on a computer-interfaced robotic arm. I'm always looking for new side projects, so feel free to reach out!
+- 🦾 I'm currently working on a rover that monitors air quality with [@dannydubinko](https://github.com/dannydubinko) and [@luke.major](https://github.com/luke.major).
 
 - 📨 You can contact me at **sabrina.button@queensu.ca**
 
