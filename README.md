@@ -1,6 +1,6 @@
 # ⛺ Hi! I'm Sabrina.
 ## Mechatronics & Robotics Engineering Student @ Queen's University
-🦾 I'm currently conducting research on perception in uncrewed surface vehichles at Ingenuity Labs 
+🦾 I'm currently conducting research on perception in uncrewed surface vehichles at Ingenuity Labs <br>
 🤖 Looking to collaborate in hackathons and on robotics projects :)<br>🌱 Learning about ROS and robot development/simulation. <br>🌍 Passionate about sustainability, robotics, and artificial intelligence!
 
 ## Socials
