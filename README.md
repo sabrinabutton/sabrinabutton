@@ -1,6 +1,6 @@
 # ⛺ Hi! I'm Sabrina.
 ## Mechatronics & Robotics Engineering Student @ Queen's University
-🦾 I'm currently working on a rover that maps air quality with @dannydubinko and @luke.major.<br>🤖 Looking to collaborate in hackathons and on robotics projects :)<br>🌱 Learning about ROS and robot development/simulation. <br>🌍 Passionate about sustainability, robotics, and artificial intelligence!
+🦾 I'm currently conducting research on perception in uncrewed surface vehichles at Ingenuity Labs 🤖 Looking to collaborate in hackathons and on robotics projects :)<br>🌱 Learning about ROS and robot development/simulation. <br>🌍 Passionate about sustainability, robotics, and artificial intelligence!
 
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sabs#4754) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrinabutton) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sabrinarosebutton) 
